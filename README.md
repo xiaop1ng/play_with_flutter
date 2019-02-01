@@ -35,7 +35,9 @@ File > New > New Flutter Project
 
 `\flutter\packages\flutter_tools\gradle\flutter.gradle` & `build.gradle`
 
-![WVTng](https://ws1.sinaimg.cn/large/0072Lfvtly1fzqw7er441j30jg0ahaat.jpg)
+
+![WVT](https://ws1.sinaimg.cn/large/0072Lfvtly1fzqw7er441j30jg0ahaat.jpg)
+
 
 ```
     // use proxy
