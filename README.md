@@ -21,7 +21,7 @@ append the full path `flutter\bin` to `Path`.
 
 **Step 3: reboot system and check flutter**
 
-![WZAW]R7`R6Y.png](https://ws1.sinaimg.cn/large/0072Lfvtly1fzqw08aw7hj30hi0hbdgz.jpg)
+![WZAW](https://ws1.sinaimg.cn/large/0072Lfvtly1fzqw08aw7hj30hi0hbdgz.jpg)
 
 **Step 4: install flutter plug**
 
