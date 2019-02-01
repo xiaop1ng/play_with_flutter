@@ -20,7 +20,7 @@ or download
 append the full path `flutter\bin` to `Path`.
 
 **Step 3: reboot system and check flutter**
-
+> flutter doctor -v
 ![WZAW](https://ws1.sinaimg.cn/large/0072Lfvtly1fzqw08aw7hj30hi0hbdgz.jpg)
 
 **Step 4: install flutter plug**
